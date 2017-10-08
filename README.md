@@ -4,7 +4,7 @@
 
 ## Example Playbook
 
-    - hosts: servers
+    - hosts: all
       roles:
          - { role: guillaumevincent.fail2ban }
 
